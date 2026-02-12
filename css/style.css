@@ -72,7 +72,7 @@ nav a:hover {
     justify-content: center;
     align-items: center;
     font-family: Arial, sans-serif;
-    background: url(images/cat/paw.jpg) no-repeat,
+    background: url(/images/catpaw.jpg) no-repeat,
         linear-gradient(135deg, #000000dc 0%, #000000 100%);
     background-size: cover;
     background-position: center;
@@ -196,7 +196,7 @@ nav a:hover {
     justify-content: center;
     align-items: center;
     font-family: Arial, sans-serif;
-    background: url(images/anime-bg.jpg) no-repeat,
+    background: url(/images/anime-bg.jpg) no-repeat,
         linear-gradient(135deg, #000000dc 0%, #000000 100%);
     background-size: cover;
     background-position: center;
